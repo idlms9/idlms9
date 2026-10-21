@@ -35,7 +35,10 @@
   <img src="https://raw.githubusercontent.com/idlms9/tada-frontend/main/main-screen.png" alt="TADA" width="560" />
 </p>
 
-チーム開発(5名・約2ヶ月)で、画面(カレンダー・日記)と、日記・カレンダーのAPIを担当しました。詳しくは各リポジトリのREADMEをご覧ください。
+<p align="center">
+  チーム開発(5名・約2ヶ月)で、画面(カレンダー・日記)と、日記・カレンダーのAPIを担当しました。<br>
+  詳しくは各リポジトリのREADMEをご覧ください。
+</p>
 
 ## 使っている技術
 
