@@ -1,16 +1,25 @@
-## Hi there 👋
+<h3 align="center">AI絵日記サービス「TADA」を開発しました</h3>
 
-<!--
-**idlms9/idlms9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  チーム開発(5名・約2ヶ月)で、カレンダーと日記の機能を担当しました。
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://tada-frontend-seven.vercel.app/"><b>▶ Demo</b></a> ・
+  <a href="https://github.com/idlms9/tada-frontend"><b>Frontend</b></a> ・
+  <a href="https://github.com/idlms9/tada-was"><b>Backend</b></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/idlms9/tada-frontend/main/main-screen.png" alt="TADA" width="560" />
+</p>
+
+## 使っている技術
+
+<p>
+  <img src="https://img.shields.io/badge/JAVA_17-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
